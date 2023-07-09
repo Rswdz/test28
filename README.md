@@ -7,7 +7,7 @@
 > An awesome project.|收集有意思的项目
 
 # 实用工具
-[awesome-jianso/calibre-web: Web app for browsing, reading and downloading eBooks stored in a Calibre database](https://dwz.mk/sq3tg)
+[点击打开](https://dwz.mk/sq3tg)
 
 
 -------
