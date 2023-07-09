@@ -28,7 +28,7 @@
 
 calibre-web一个在线图书馆,目前只支持epub和PDF
 
-[awesome-jianso/calibre-web: Web app for browsing, reading and downloading eBooks stored in a Calibre database](https://github.com/awesome-jianso/calibre-web)
+对于实现目标，无非也就是三步，思考、选择、行动。依赖于别人，很多时候，也就是缺少担当，生活，大多数人总是想着得过且过，然后找很多借口，证明这不是自己的本愿。
 
 
 
@@ -40,7 +40,7 @@ calibre-web一个在线图书馆,目前只支持epub和PDF
 
 goac
 
-[awesome-jianso/goa.c: 📚 中文书籍：数据结构和算法（Golang实现）Chinese Book](https://github.com/awesome-jianso/goa.c/tree/master)
+很多事情，心里有数就好，看破不说破，给人留条后路，自己也少受伤害。
 
 
 
@@ -49,7 +49,7 @@ goac
 # 备注
 
 
-
+所有的消极心态都是由积累了心理时间以及对当下时刻的拒绝所引起的。焦虑、紧张、不安、压力、烦恼——所有形式的恐惧，都是因为对未来过于关注而对当下关注不够所引起的。愧疚、后悔、悲伤、怨恨、痛苦以及所有形式的不宽恕都是由过于关注过去而很少关注当下时刻引起的。
 
 
 
